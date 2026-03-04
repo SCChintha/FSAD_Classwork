@@ -44,10 +44,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.klu"/>
 		</list>
 		<list key="name">
+			<item value="SpringMVCDemoApp"/>
 		</list>
 		<list key="artifactId">
+			<item value="com.college"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
